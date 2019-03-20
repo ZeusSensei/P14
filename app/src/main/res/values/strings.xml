@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="Estados">
+        <item>Mexico</item>
+        <item>Nayarit</item>
+        <item>Guanajuato</item>
+        <item>Yucatan</item>
+    </string-array>
+
+    <string-array name="Mexico">
+
+    </string-array>
+
+    <string-array name="Nayarit">
+        <item>Tepic</item>
+        <item>Sayulita</item>
+        <item>Guayabitos</item>
+    </string-array>
+    <string-array name="Guanajuato">
+        <item>Guanajuato</item>
+        <item>Leon</item>
+        <item>Irapuato</item>
+    </string-array>
+    <string-array name="Yucatan">
+        <item>Merida</item>
+        <item>Progreso</item>
+        <item>Izamal</item>
+    </string-array>
+</resources>
